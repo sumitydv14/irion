@@ -1,0 +1,115 @@
+
+
+
+
+@media (max-width: 575.98px) { 
+  
+    .navbar button{
+        z-index: 1;
+    }
+
+    div#navbarSupportedContent {
+        z-index: 1;
+        background: #FFF;
+        text-align: center;
+    }
+
+    .certification-sec .row{
+        text-align: center;
+    }
+
+    .msc-care {
+        margin-top: 20px;
+    }
+    .counter-sec {
+      
+        background-repeat: repeat;
+     
+    }
+
+    .addmision-btn {
+        margin-top: 31px;
+    }
+    .carolas-linius {
+        margin-top: 20px;
+    }
+
+    .w-50{
+        width: 80% !important;
+    }
+
+    .cources-sec h1{
+        font-size: 34px;
+    }
+    .contact-us {
+        margin-top: 20px;
+    }
+    .about {
+        margin-top: 30px;
+    }
+
+    .working {
+        margin-top: 30px;
+    }
+
+    .copyright ul{
+         flex-direction: column;
+         margin-top:20px;
+    }
+    .post-img {
+        margin-top: 20px;
+    }
+    .blog-content{
+        margin-top: 20px;
+    }
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .counter-sec {
+      
+        background-repeat: repeat;
+     
+    }
+    .carolas-linius {
+        margin-top: 20px;
+    }
+    div#navbarSupportedContent {
+        z-index: 1;
+        background: #FFF;
+        text-align: center;
+    }
+    .msc-care {
+        margin-top: 20px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .counter-sec {
+     
+        background-repeat: repeat;
+       
+    }
+
+    .about a {
+    
+        padding: 7px 26px;
+    }
+
+    div#navbarSupportedContent {
+        z-index: 1;
+        background: #FFF;
+        text-align: center;
+    }
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+ 
+   
+}
+
+@media (min-width: 1200px) { 
+
+
+ }
